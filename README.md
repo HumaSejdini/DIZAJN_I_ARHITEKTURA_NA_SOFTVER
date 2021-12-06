@@ -1,5 +1,7 @@
 # Dizajn_i_arhitektura_na_softver
 
+#ЛАБОРАТОРИСКИТЕ ВЕЖБИ СЕ ВО : BRANCH MASTER
+
 Верица Стоилкова 191069
 
 Доника Сулејмани 191074
